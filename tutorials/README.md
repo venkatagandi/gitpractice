@@ -4,5 +4,4 @@
 
 ** The list of tutorials include **
 
->ReactJS
->Angular2
+> - ReactJS - Angular2
