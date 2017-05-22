@@ -5,3 +5,5 @@
 **This is a bold text**
 
 *This is an italicized text*
+
+**This is bold and *italicized* text**
